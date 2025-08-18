@@ -8,5 +8,11 @@
   "rangeStrategy": "bump",
   "schedule": [
     "* * * * 1"
+  ],
+  "packageRules": [
+    {
+      "matchCategories": ["uses-with"],
+      "enabled": false
+    }
   ]
 }
