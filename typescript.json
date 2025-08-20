@@ -11,7 +11,7 @@
   ],
   "packageRules": [
     {
-      "matchCategories": ["uses-with"],
+      "matchPackageNames": ["node"],
       "enabled": false
     }
   ]
