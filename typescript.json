@@ -11,7 +11,7 @@
   ],
   "packageRules": [
     {
-      "matchPackageNames": ["node"],
+      "matchDepNames": ["node"],
       "enabled": false
     }
   ]
