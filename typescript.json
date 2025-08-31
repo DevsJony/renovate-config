@@ -5,7 +5,6 @@
     "docker:disable",
     "group:allNonMajor"
   ],
-  "rangeStrategy": "bump",
   "schedule": [
     "* * * * 1"
   ],
