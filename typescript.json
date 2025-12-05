@@ -9,6 +9,7 @@
     "* * * * 1"
   ],
   "updateNotScheduled": false,
+  "rangeStrategy": "bump",
   "packageRules": [
     {
       "matchDepNames": ["node"],
