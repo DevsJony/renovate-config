@@ -9,7 +9,6 @@
   "schedule": [
     "* * * * 1"
   ],
-  "updateNotScheduled": false,
   "rangeStrategy": "bump",
   "packageRules": [
     {
