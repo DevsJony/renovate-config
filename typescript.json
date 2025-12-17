@@ -11,6 +11,9 @@
   ],
   "rangeStrategy": "bump",
   "updateNotScheduled": false,
+  "vulnerabilityAlerts": {
+    "automerge": true
+  },
   "packageRules": [
     {
       "matchDepNames": ["node"],
