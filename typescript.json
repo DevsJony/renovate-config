@@ -10,6 +10,7 @@
     "* * * * 1"
   ],
   "rangeStrategy": "bump",
+  "dependencyDashboardApproval": true,
   "updateNotScheduled": false,
   "vulnerabilityAlerts": {
     "automerge": true
