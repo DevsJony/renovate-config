@@ -12,13 +12,16 @@
   "rangeStrategy": "bump",
   "dependencyDashboardApproval": true,
   "updateNotScheduled": false,
-  "vulnerabilityAlerts": {
-    "automerge": true
-  },
   "packageRules": [
     {
       "matchDepNames": ["node"],
       "enabled": false
+    },
+    {
+      "matchUpdateTypes": ["patch", "minor"],
+      "vulnerabilityAlerts": {
+        "automerge": true
+      }
     }
   ]
 }
