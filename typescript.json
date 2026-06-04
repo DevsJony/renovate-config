@@ -4,7 +4,8 @@
     "config:recommended",
     ":dependencyDashboardApproval",
     "docker:disable",
-    "group:allNonMajor"
+    "group:allNonMajor",
+    "security:minimumReleaseAgeNpm"
   ],
   "schedule": [
     "* * * * 1"
